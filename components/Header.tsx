@@ -204,7 +204,7 @@ function Header() {
             <a
               key={item}
               href="#"
-              className="block py-3 text-center hover:bg-[#124588] hover:text-white text-[16px] border-b"
+              className="block py-3 text-center hover:bg-[#124588] hover:text-white text-[16px]"
             >
               {item}
             </a>
